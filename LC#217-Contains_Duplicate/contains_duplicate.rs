@@ -1,3 +1,7 @@
+/// 217. Contains Duplicate
+/// Difficulty: Easy
+/// Topics: Array, Hash Table, Sorting
+/// https://leetcode.com/problems/contains-duplicate/
 use std::collections::HashSet;
 fn main() {
     fn contains_duplicate(nums: Vec<i32>) -> bool {
